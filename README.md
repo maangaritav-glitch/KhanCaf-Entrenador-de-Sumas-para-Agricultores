@@ -15,6 +15,3 @@ Requisitos:
 Pasos:
 
 ```bash
-git clone https://github.com/TU_USUARIO/mi-entrenador-de-sumas.git
-cd mi-entrenador-de-sumas
-python khancafe.py
